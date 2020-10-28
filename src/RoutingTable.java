@@ -2,7 +2,6 @@
  *  A routing table for a host in the network. This
  *  is just a hash table for mapping Host(dest) to
  *  Host(next hop), but with a special toString().
- *  @author K. Raven Russell
  */
 public class RoutingTable extends HashTable<Host,Host> {
     /**
