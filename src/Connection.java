@@ -5,7 +5,6 @@ import java.util.Random;
 /**
  *  A host in the network.
  *  
- *  @author K. Raven Russell
  */
 public class Connection {
     /**
