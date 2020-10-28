@@ -45,8 +45,6 @@ import javax.swing.JOptionPane;
 
 /**
  *  GUI for the simulation.
- *  
- *  @author Katherine (Raven) Russell
  */
 class SimGUI {
     /**
