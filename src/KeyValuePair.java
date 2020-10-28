@@ -1,7 +1,5 @@
 /**
  * This class represents a key-value pair.
- * CS 310-002.
- * @author CS310 professors
  * @param <K> generic type key
  * @param <V> generic type value
  */ 
