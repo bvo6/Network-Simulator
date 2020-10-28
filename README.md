@@ -13,8 +13,6 @@ Professional code often uses existing libraries to quickly prototype interesting
 
 ## Tasks Overview
 
-- Task 1: Examine the JCF Classes (0%)
-- Task 2: Read the Provided Code Base (0%)
-- Task 3: Implement a Directed Graph Class to Support the Network Structure (60%)
-- Task 4: Implement a Hash Table Class to Support the Network Routing (20%)
-- Task 5: Finish Dijkstra's Shortest Path Algorithm in the Simulator (20%)
+- Task 1: Implement a Directed Graph Class to Support the Network Structure (60%)
+- Task 2: Implement a Hash Table Class to Support the Network Routing (20%)
+- Task 3: Finish Dijkstra's Shortest Path Algorithm in the Simulator (20%)
