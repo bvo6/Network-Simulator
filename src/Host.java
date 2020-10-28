@@ -3,7 +3,6 @@ import java.awt.Color;
 
 /**
  *  A host in the network.
- *  @author K. Raven Russell
  */
 public class Host {
     /**
