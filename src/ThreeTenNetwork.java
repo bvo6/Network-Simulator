@@ -8,8 +8,6 @@ import java.util.PriorityQueue;
 
 /**
  *  Runs the actual networking code for the simulation.
- *  
- *  @author Katherine (Raven) Russell
  */
 class ThreeTenNetwork {
     /**
