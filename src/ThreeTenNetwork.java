@@ -80,18 +80,11 @@ class ThreeTenNetwork {
             }
         }
     }
-    
-    //--------------------------------------------------------
-    // DO NOT EDIT ANYTHING BELOW THIS LINE
-    //--------------------------------------------------------
-    
     /**
      *  A node in Dijkstra's shortest path algothim needs to be
      *  able to be marked as done and have a parent and a current
      *  distance. This wraps a Host with those properties for
      *  running the algorithm.
-     *  
-     *  @author Katherine (Raven) Russell
      */
     private static class DijkstraNode implements Comparable<DijkstraNode> {
         /**
